@@ -1,0 +1,11 @@
+*.log
+.DS_Store
+.vite_opt_cache
+dist
+node_modules
+TODOs.md
+.vscode
+.idea
+pnpm-global
+docs/.vitepress/cache
+yarn.lock
