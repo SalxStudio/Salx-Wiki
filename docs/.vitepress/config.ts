@@ -3,24 +3,46 @@ export default {
   title: '[Salx] 水岸兰香2.0',
   description: '123123123',
   head: [['link', { rel: 'icon', href: '/images/favicon.ico' }]],
-  // Theme related configurations.
   themeConfig: {
     siteTitle: '[Salx] 水岸兰香2.0',
     logo: '/images/flower.svg',
     nav: [
-      { text: '水岸兰香官网', link: 'https://www.catmc.cn' },
+      { text: '首页', link: '/index' },
+      { text: '服务器指北', link: '/guide' },
+      { text: '官网', link: 'https://www.catmc.cn' },
       {
-        text: '服务器工具',
+        // text: '工具',
         items: [
           {
-            // Title for the section.
-            text: '网页工具',
+            text: '相关工具',
             items: [
-              { text: '服务器地图', link: 'http://catmc.cn:8123' }
+              { text: '服务器地图', link: 'http://catmc.cn:8123' },
             ]
           }
         ]
-      }
+      },
+    ],
+    sidebar: {
+      '/guide/': [
+        {
+          text: '服务器指北',
+          collapsed: false,
+          items: [
+            { text: 'adding', link: '/guide/' },
+          ]
+        },
+        {
+          text: '介绍',
+          collapsed: false,
+          items: [
+            { text: '关于服务器', link: '/guide/server' },
+            { text: '关于我们', link: '/guide/team' }
+          ]
+        },
+      ]
+    },
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/IMZCC/Salx-Wiki' },
     ],
     footer: {
       message: '<a href="https://www.catmc.cn">[Salx] 水岸兰香2.0</a>',

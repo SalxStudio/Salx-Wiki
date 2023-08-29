@@ -6,19 +6,13 @@ titleTemplate: Wiki百科
 
 hero:
   name: Salx2.0
-  text: 水岸兰香2.0·从❤️出发
+  text: 服务器指北
   image: /images/flower.svg
   tagline: "服务器地址：catmc.cn"
   actions:
     - theme: brand
-      text: 查看文档 →  
+      text: 查看指北详解 →  
       link: /guide/
-    - theme: brand
-      text: 查看服务器介绍 →  
-      link: /guide/server
-    - theme: alt
-      text: 加入QQ玩家群
-      link: https://qm.qq.com/cgi-bin/qm/qr?k=kJUh6osWJb9IEEQyWxblSkmhGkjN1AFD&jump_from=webapi&authKey=i3hs9CVkNwKa2G1n8RRu1Ds7OvXDMaXvn3p1X0MlannMk9GVUDEVgMframpQSXmN
 
 features:
   - title: 超强服务器
