@@ -21,12 +21,14 @@ hero:
       link: https://qm.qq.com/cgi-bin/qm/qr?k=kJUh6osWJb9IEEQyWxblSkmhGkjN1AFD&jump_from=webapi&authKey=i3hs9CVkNwKa2G1n8RRu1Ds7OvXDMaXvn3p1X0MlannMk9GVUDEVgMframpQSXmN
 
 features:
-  - title: 超强服务器
-    details: 48H224G4T超强服务器
-  - title: ISP专线
-    details: 7x24H在线 99%在线
-  - title: 全正版插件
+  - title: 服务器配置
+    details: 48H Intel E5-2696 <br/> 224G ECC Mem <br/> 4T HDD Storage <br/> 确保流畅的游戏体验和稳定的性能。
+  - title: 网络配置
+    details: 电信ISP <br/> 100Mb对等专线 <br/> 7x24H Online
+  - title: 正版插件
     details: 腐竹强力支持，买掉所有的插件！
+
+
 ---
 <style module>
   :root {
