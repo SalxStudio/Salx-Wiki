@@ -14,7 +14,7 @@ export default {
         items: [
           {
             items: [
-              { text: '服务器地图', link: 'http://catmc.cn:8123' },
+              { text: '服务器地图', link: 'https://map.catmc.cn:8443' },
             ]
           }
         ]
