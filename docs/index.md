@@ -1,12 +1,12 @@
 ---
 layout: home
 
-title: 水岸香兰
+title: 水岸兰香
 titleTemplate: Wiki百科
 
 hero:
-  name: Saxl2.0
-  text: 水岸香兰2.0 从❤️出发
+  name: Salx2.0
+  text: 水岸兰香2.0 从❤️出发
   image: /images/flower.svg
   tagline: 持续更新优化中……
   actions:
