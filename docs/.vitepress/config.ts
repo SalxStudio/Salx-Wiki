@@ -27,6 +27,27 @@ export default {
           text: '服务器指北',
           collapsed: false,
           items: [
+            { text: '安装手册', link: '/guide/' },
+          ]
+        },
+        {
+          text: '合成',
+          collapsed: false,
+          items: [
+            { text: 'adding', link: '/guide/' },
+          ]
+        },
+        {
+          text: '功能',
+          collapsed: false,
+          items: [
+            { text: 'adding', link: '/guide/' },
+          ]
+        },
+        {
+          text: '玩法',
+          collapsed: false,
+          items: [
             { text: 'adding', link: '/guide/' },
           ]
         }
