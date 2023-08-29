@@ -8,16 +8,16 @@ hero:
   name: Salx2.0
   text: 水岸兰香2.0·从❤️出发
   image: /images/flower.svg
-  tagline: "服务器地址：catmc.cn"
+  tagline: "地址：catmc.cn<br/>版本：1.20.1" 
   actions:
     - theme: brand
-      text: 查看文档 →  
+      text: 开启指北 →  
       link: /guide/
-    - theme: brand
-      text: 查看服务器介绍 →  
-      link: /guide/server
     - theme: alt
-      text: 加入QQ玩家群
+      text: 关于我们 →  
+      link: /about
+    - theme: alt
+      text: ❤️加入QQ玩家群❤️
       link: https://qm.qq.com/cgi-bin/qm/qr?k=kJUh6osWJb9IEEQyWxblSkmhGkjN1AFD&jump_from=webapi&authKey=i3hs9CVkNwKa2G1n8RRu1Ds7OvXDMaXvn3p1X0MlannMk9GVUDEVgMframpQSXmN
 
 features:
@@ -26,12 +26,34 @@ features:
   - title: 网络配置
     details: 电信ISP <br/> 100Mb对等专线 <br/> 7x24H Online
   - title: 正版插件
-    details: 腐竹强力支持，买掉所有的插件！
+    details: 腐竹强力支持<br/>买掉所有的插件！<br/>当前已购入19个正版插件
 
 
 ---
 <style module>
   :root {
-    --vp-home-hero-name-color: #ee90b2;
+    /* --vp-home-hero-name-color: #ee90b2; */
+    --vp-home-hero-name-color: #transparent;
+    --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #e6cff1 30%, #ee90b2);
+    --vp-home-hero-image-background-image: linear-gradient(-45deg, #e6cff1 50%, #47caff 50%);
+  }
+  :root {
+    --vp-home-hero-name-color: transparent;
+    --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #e6cff1 30%, #ee90b2);
+
+    --vp-home-hero-image-background-image: linear-gradient(-45deg, #1ea9db 50%, #e6cff1 50%);
+    --vp-home-hero-image-filter: blur(40px);
+  }
+
+  @media (min-width: 640px) {
+    :root {
+      --vp-home-hero-image-filter: blur(56px);
+    }
+  }
+
+  @media (min-width: 960px) {
+    :root {
+      --vp-home-hero-image-filter: blur(72px);
+    }
   }
 </style>
