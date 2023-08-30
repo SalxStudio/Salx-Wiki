@@ -34,7 +34,9 @@ export default {
           text: '合成',
           collapsed: false,
           items: [
-            { text: 'adding', link: '/guide/' },
+            { text: '原版合成', link: '/guide/ybhc' },
+            { text: '家具合成', link: '/guide/jjhc' },
+            { text: '星露谷合成', link: '/guide/xlghc' },
           ]
         },
         {
