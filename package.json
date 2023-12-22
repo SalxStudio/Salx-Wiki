@@ -6,10 +6,11 @@
   "author": "IMZCC",
   "license": "MIT",
   "devDependencies": {
-    "vitepress": "^1.0.0-rc.9"
+    "vitepress": "^1.0.0-rc.32"
   },
   "scripts": {
-    "docs:dev": "vitepress dev docs",
+    "dev": "vitepress dev docs --host",
+    "docs:dev": "vitepress dev docs --host",
     "docs:build": "vitepress build docs",
     "docs:serve": "vitepress serve docs"
   }

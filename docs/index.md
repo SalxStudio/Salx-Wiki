@@ -5,10 +5,10 @@ title: 水岸兰香
 titleTemplate: Wiki百科
 
 hero:
-  name: Salx2.0
-  text: 水岸兰香2.0·从❤️出发
+  name: Salx3.0
+  text: 水岸兰香3.0·从❤️出发
   image: /images/flower.svg
-  tagline: "地址：catmc.cn<br/>版本：1.20.1" 
+  tagline: "地址：salx.cn<br/>版本：1.20.1" 
   actions:
     - theme: brand
       text: 开启指北 →  
