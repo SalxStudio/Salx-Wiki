@@ -1,20 +1,20 @@
 export default {
   lang: 'zh-CN',
-  title: '[Salx] 水岸兰香2.0',
+  title: '[Salx] 水岸兰香3.0',
   description: '123123123',
   head: [['link', { rel: 'icon', href: '/images/favicon.ico' }]],
   themeConfig: {
-    siteTitle: '[Salx] 水岸兰香2.0',
+    siteTitle: '[Salx] 水岸兰香3.0',
     logo: '/images/flower.svg',
     nav: [
       { text: 'Wiki首页', link: '/index' },
       { text: '关于我们', link: '/about' },
-      { text: '官网', link: 'https://www.catmc.cn' },
+      { text: '官网', link: 'https://www.salx.cn' },
       {
         items: [
           {
             items: [
-              { text: '服务器地图', link: 'https://map.catmc.cn:8443' },
+              { text: '服务器地图', link: 'https://map.salx.cn:8443' },
             ]
           }
         ]
@@ -59,8 +59,8 @@ export default {
       { icon: 'github', link: 'https://github.com/IMZCC/Salx-Wiki' },
     ],
     footer: {
-      message: '<a href="https://www.catmc.cn">[Salx] 水岸兰香2.0</a>',
-      copyright: 'Copyright © 2023-present Saxl2.0'
+      message: '<a href="https://www.salx.cn">[Salx] 水岸兰香3.0</a>',
+      copyright: 'Copyright © 2023-present Saxl3.0'
     },
     search: {
       provider: 'local',
