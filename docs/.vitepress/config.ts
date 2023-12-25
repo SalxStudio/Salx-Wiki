@@ -35,8 +35,9 @@ export default {
           collapsed: false,
           items: [
             { text: '原版合成', link: '/guide/ybhc' },
-            { text: '家具合成', link: '/guide/jjhc' },
-            { text: '星露谷合成', link: '/guide/xlghc' },
+          //  { text: '家具合成', link: '/guide/jjhc' },
+            { text: '作物添加', link: '/guide/xlghc' },
+            { text: '钓鱼添加', link: '/guide/diaoyu' },
           ]
         },
         {
@@ -51,8 +52,17 @@ export default {
           collapsed: false,
           items: [
             { text: 'adding', link: '/guide/' },
+        
           ]
-        }
+        },
+        {
+          text: '视频',
+          collapsed: false,
+          items: [
+            { text: 'adding', link: '/guide/' },
+        
+          ]
+        },
       ]
     },
     socialLinks: [

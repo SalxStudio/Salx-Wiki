@@ -24,3 +24,15 @@ Java 环境：
 :::
 
 <iframe src="//player.bilibili.com/player.html?aid=763305988&bvid=BV1o64y187GJ&cid=423437761&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="400px"></iframe>
+
+## Android手机
+
+### 1.下载
+到我们的QQ群：758600059 
+<br> 链接直接加群: 'https://map.salx.cn:8443'https://qm.qq.com/cgi-bin/qm/qr?k=kJUh6osWJb9IEEQyWxblSkmhGkjN1AFD&jump_from=webapi&authKey=i3hs9CVkNwKa2G1n8RRu1Ds7OvXDMaXvn3p1X0MlannMk9GVUDEVgMframpQSXmN
+<br>或者KOOK语音频道 https://kook.top/UnoSqc 
+<br>内询问FCL安卓启动器客户端的下载方式
+
+### 2.安装
+
+和其他启动器类似。
