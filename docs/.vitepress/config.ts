@@ -31,13 +31,14 @@ export default {
           ]
         },
         {
-          text: '合成',
+          text: '添加',
           collapsed: false,
           items: [
             { text: '原版合成', link: '/guide/ybhc' },
           //  { text: '家具合成', link: '/guide/jjhc' },
             { text: '作物添加', link: '/guide/xlghc' },
             { text: '钓鱼添加', link: '/guide/diaoyu' },
+            { text: '矿物添加', link: '/guide/kuangwu' },
           ]
         },
         {
@@ -45,13 +46,15 @@ export default {
           collapsed: false,
           items: [
             { text: '武器', link: '/guide/wuqi' },
+            { text: '防具', link: '/guide/fangju' },
+            { text: '工具', link: '/guide/gongju' },
           ]
         },
         {
-          text: '玩功能',
+          text: '功能',
           collapsed: false,
           items: [
-            { text: 'adding', link: '/guide/' },
+            { text: '功能', link: '/guide/gongneng' },
         
           ]
         },
