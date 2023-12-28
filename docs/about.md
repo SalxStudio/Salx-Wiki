@@ -62,7 +62,7 @@ const members = [
       我们的团队
     </template>
     <template #lead>
-      专业团队.
+      专业团队
     </template>
   </VPTeamPageTitle>
   <VPTeamMembers
