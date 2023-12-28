@@ -41,14 +41,14 @@ export default {
           ]
         },
         {
-          text: '功能',
+          text: '装备',
           collapsed: false,
           items: [
-            { text: 'adding', link: '/guide/' },
+            { text: '武器', link: '/guide/wuqi' },
           ]
         },
         {
-          text: '玩法',
+          text: '玩功能',
           collapsed: false,
           items: [
             { text: 'adding', link: '/guide/' },
