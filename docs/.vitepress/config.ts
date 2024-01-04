@@ -1,3 +1,4 @@
+// <!-- npm run dev 启动脚本 -->
 export default {
   lang: 'zh-CN',
   title: '[Salx] 水岸兰香3.0',
@@ -48,6 +49,8 @@ export default {
             { text: '武器', link: '/guide/wuqi' },
             { text: '防具', link: '/guide/fangju' },
             { text: '工具', link: '/guide/gongju' },
+            { text: '材料', link: '/guide/cailiao' },
+            { text: '宝石', link: '/guide/baoshi' },
           ]
         },
         {
