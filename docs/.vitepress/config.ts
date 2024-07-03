@@ -10,12 +10,12 @@ export default {
     nav: [
       { text: 'Wiki首页', link: '/index' },
       { text: '关于我们', link: '/about' },
-      { text: '官网', link: 'https://www.salx.cn' },
+      { text: '论坛', link: 'https://bbs.salx.cn' },
       {
         items: [
           {
             items: [
-              { text: '服务器地图', link: 'https://map.salx.cn:8443' },
+              { text: '服务器管理面板', link: 'https://panel.salx.cn' },
             ]
           }
         ]
